@@ -47,9 +47,23 @@ Acuried the data from kaggle-an open source platform(.csv format)
 
 ## Model Architecture
 
+
+![App Screenshot](https://github.com/Ram-Pathuri/Ads-Click-Through-Rate-/blob/main/Screenshot%202025-03-19%20175506.png)
+
+
+
 We used several ml models to gain the high accuracy
 
 
 ## Metrics
+
+
+| Model Name            | Accuracy (%) | 
+|-----------------------|-------------|
+| Logistic Regression  | 69.5        |
+| Decision Tree       | 77.05       |
+| Random Forest       | 80.55       |
+
 ## Model Interpration
 ## Model Deployment
+## Screenshots
