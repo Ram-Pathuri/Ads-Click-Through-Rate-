@@ -65,5 +65,7 @@ We used several ml models to gain the high accuracy
 | Random Forest       | 80.55       |
 
 ## Model Interpration
+![App Screenshot](https://github.com/Ram-Pathuri/Ads-Click-Through-Rate-/blob/main/Shape_values.png)
+
 ## Model Deployment
 ## Screenshots
