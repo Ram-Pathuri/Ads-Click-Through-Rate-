@@ -68,4 +68,4 @@ We used several ml models to gain the high accuracy
 ![App Screenshot](https://github.com/Ram-Pathuri/Ads-Click-Through-Rate-/blob/main/Shape_values.png)
 
 ## Model Deployment
-## Screenshots
+Desgined a api using fast api, to serve the preiction and deployed it over a aws lamda.
